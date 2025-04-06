@@ -52,7 +52,7 @@ function App() {
             </div>
             <div className="relative">
               <img
-                src="src\assests\homepage.png"
+                src="src/assests/homepage.png"
                 alt="AI Robot in greenhouse"
                 className="rounded-lg shadow-2xl"
               />
