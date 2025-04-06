@@ -1,6 +1,5 @@
 import homepageImage from './assets/homepage.png';
 import { Sprout, Notebook as Robot, ArrowRight, Mail, Phone, MapPin, Facebook, Twitter, Linkedin, Instagram } from 'lucide-react';
-import AssistantPanel from "./assests/AssistantPanel";
 
 function App() {
   return (
@@ -183,8 +182,6 @@ function App() {
           </div>
         </div>
       </footer>
-      {/* AssistantPanel */}
-      <AssistantPanel />
     </div>
   );
 }
