@@ -1,3 +1,4 @@
+import homepageImage from './assets/homepage.png';
 import { Sprout, Notebook as Robot, ArrowRight, Mail, Phone, MapPin, Facebook, Twitter, Linkedin, Instagram } from 'lucide-react';
 
 function App() {
@@ -52,7 +53,7 @@ function App() {
             </div>
             <div className="relative">
               <img
-                src="src/assests/homepage.png"
+                src={homepageImage} // Use the imported image
                 alt="AI Robot in greenhouse"
                 className="rounded-lg shadow-2xl"
               />
