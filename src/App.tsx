@@ -41,7 +41,7 @@ function App() {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <Sprout className="h-8 w-8 text-green-600" />
-              <span className="ml-2 text-xl font-semibold text-gray-900">FarmAI</span>
+              <span className="ml-2 text-xl font-semibold text-gray-900">Farm AI</span>
             </div>
             <div className="hidden sm:flex sm:items-center">
               <a href="#" className="px-3 py-2 text-gray-600 hover:text-gray-900">Home</a>
